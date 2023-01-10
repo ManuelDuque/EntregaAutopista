@@ -1,0 +1,24 @@
+{
+    "ui": {
+        "title": "Car Counter",
+        "ui_file_path": "mainwindow.ui",
+        "counter_text1": "Cars up: {0}",
+        "counter_text2": "Cars down: {0}"
+    },
+    "video": {
+        "fps": 60,
+        "video_file_path": "M6MotorwayTraffic.mp4"
+    },
+    "barriers": {
+        "upper": {
+            "y": 35,
+            "color": [0, 255, 0],
+            "thickness": 5
+        },
+        "lower": {
+            "y": 22,
+            "color": [255, 0, 0],
+            "thickness": 5
+        }
+    }
+}
